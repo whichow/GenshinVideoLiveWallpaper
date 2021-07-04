@@ -5,7 +5,7 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 
-class BootBroadCast extends BroadcastReceiver
+class BootBroadcast extends BroadcastReceiver
 {
 	@SuppressLint("UnsafeProtectedBroadcastReceiver")
 	@Override
